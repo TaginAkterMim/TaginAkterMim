@@ -41,13 +41,13 @@
 
 <h3>☕ Connect with me!</h3>
 <hr>
-<p>
+<!-- <p>
 <a href="https://www.facebook.com/jony.sarowar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jony-sarowar/Icon/refs/heads/main/facebook.png" alt="facebook" width="40" height="40"/></a>
 <a href="https://www.instagram.com/jonysarowar/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jony-sarowar/Icon/refs/heads/main/instagram.png" alt="instagram" width="40" height="40"/></a>
 <a href="https://x.com/sarowar_tweets" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jony-sarowar/Icon/refs/heads/main/twitter.png" alt="twitter" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/login" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jony-sarowar/Icon/refs/heads/main/linkedin.png" alt="linkedin" width="40" height="40"/></a>
 <a href="https://www.youtube.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jony-sarowar/Icon/refs/heads/main/youtube.png" alt="youtube" width="40" height="40"/></a></p>
-<br>
+<br> -->
 <h3>📧 For Business Inquiries</h3>
 <hr>
 <h4>🌐 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">taginmim1999@gmail.com</a> </h4>
