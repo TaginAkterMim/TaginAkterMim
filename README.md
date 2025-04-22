@@ -1,4 +1,4 @@
-# Hi, I a'm Tagin Akter Mim  👋
+# Hi, I'm Tagin Akter Mim  👋
 
 
 ![](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)
