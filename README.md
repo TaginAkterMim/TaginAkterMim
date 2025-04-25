@@ -18,7 +18,6 @@
 ☑ HTML5 / CSS3<br>
 ☑ CSS Bootstrap<br>
 ☑ JavaScript<br>
-☑ Photoshop / Illustrator
 <br><br>
 
 
